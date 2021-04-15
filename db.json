@@ -1,0 +1,22 @@
+{
+  "artikel" : [
+  {
+    "id": 1,
+    "name": "NANA",
+    "posisi": "Database analyst",
+    "image": "https://raw.githubusercontent.com/osamahanani/x.github.io/main/img/team1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "RAINA",
+    "posisi": "Database analyst",
+    "image": "https://raw.githubusercontent.com/osamahanani/x.github.io/main/img/team2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "DELA",
+    "posisi": "Database analyst",
+    "image": "https://raw.githubusercontent.com/osamahanani/x.github.io/main/img/team3.jpg"
+  }
+]
+}
